@@ -1,0 +1,12 @@
+{
+	"server": {
+		"username": "blah",
+		"password": "blah",
+		"address": "blah",
+		"port": 2424
+	},
+	"database": {
+		"username": "blah",
+		"password": "blah"
+	}
+}
